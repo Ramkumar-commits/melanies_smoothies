@@ -1,7 +1,7 @@
 # Import python packages
 import streamlit as st
 import requests
-import Fruityvice Dataframe as df
+import Fruityvice Dataframe as fv_df
 from snowflake.snowpark.functions import col
 
 # Write directly to the app
